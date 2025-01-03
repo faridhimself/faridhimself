@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a **Senior Data Analyst** at **ExxonMobil**,
 
 - **Data Visualization**: Power BI (PL-300 Certified), Tableau  
 - **Data Analytics Tools**: SQL, Alteryx, Snowflake, Power Query  
-- **Programming**: Python (actively learning)  
+- **Programming**: Python (Numpy,Pandas,Matplotlib,Seaborn)  
 - **ERP Systems**: SAP MM, OTC  
 - **Methodologies**: Agile, Risk Reporting, SOX Compliance Testing (PtP, OTC)  
 
