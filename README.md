@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a **Senior Data Analyst** with over 5 years 
 
 ## 🏆 Summary
 
-- **Expertise in Data Analytics**: Skilled in Power BI, Tableau, and SQL with advanced proficiency (PL-300 certified).  
+- **Expertise in Data Analytics**: Skilled in SQL, Tableau, and Power BI with advanced proficiency (PL-300 certified).  
 - **Process Automation & Reporting**: Proven track record in automating workflows, developing dashboards, and enhancing reporting for better decision-making.  
 - **Research-Oriented**: Pursuing a **PhD in Data Analytics** at the University of Győr, focusing on digital transformation and its impact on corporate performance.  
 
